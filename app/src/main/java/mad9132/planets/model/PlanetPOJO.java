@@ -22,7 +22,7 @@ import android.os.Parcelable;
  *      Use double numbers
  *      Include getters and setters
  *
- * Finally, implement the Parceable inteface (click 'PlanetPOJO' > Code > Generate... > Parceable
+ * Finally, implement the Parceable interface (click 'PlanetPOJO' > Code > Generate... > Parceable
  *
  * @author Gerald.Hurdle@AlgonquinCollege.com
  *
