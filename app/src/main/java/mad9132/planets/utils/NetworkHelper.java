@@ -24,5 +24,4 @@ public class NetworkHelper {
             return false;
         }
     }
-
 }
